@@ -2,4 +2,4 @@ _site/
 .sass-cache/
 .jekyll-metadata
 .bundle
-.DS_Stores
+.DS_Store
